@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.main-container{
+    background-image: url("https://img.freepik.com/free-photo/black-smooth-textured-paper-background_53876-124453.jpg?t=st=1741928188~exp=1741931788~hmac=2ae7b138a978b34d955ccb1a6ec7734704e3dff9bab09fb1af550a7ff1fe3c58&w=1380");
+    background-size: cover;
+    height: 100vh;
+    font-family: "Roboto";
+    padding: 50px
+}
+.constant-card{
+    background-color: white;
+    color: black;
+    padding: 30px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.profile{
+    height: 100px;
+    width: 100px;
+}
+.mydetails-container{
+    margin-left: 20px;
+}
+.name{
+    font-size: 20px;
+    color: #3d5fcc;
+    font-weight: 700;
+}
+.role{
+    font-size: 18px;
+    font-weight: 700;
+}
+.icons{
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+}
+.contact{
+    margin-right: 30px;
+    padding: 10px;
+}
+.icon-p{
+    font-size: 11px;
+}
+.about-img{
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+.about-heading{
+    font-size: 35px;
+    font-weight: 700;
+    color: #3d5fcc;
+}
